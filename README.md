@@ -7,3 +7,4 @@ It was a great opportunity to review some of the basics using Kaggle courses. On
 # Data Visualization
 
    + Make great data visualizations. A great way to see the power of coding!
+![Ibrahim Eldesoky Alghala - Data Visualization](https://user-images.githubusercontent.com/101582700/184181696-9c0bdc78-62c0-4cbd-b2ca-aedeb7042c04.png)
